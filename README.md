@@ -1,2 +1,3 @@
 # asthmaMap
-interactive asthma prevalence map for NYC
+Interactive asthma prevalence map for NYC, demo with fake data
+Instructions:
