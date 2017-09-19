@@ -1,7 +1,7 @@
 # asthmaMap
 ## Interactive asthma prevalence map for NYC <br/>
 ## Demo with FAKE data.  All numbers used here are randomly generated. <br/>
-## Instructions: <br/>
+**Instructions:** <br/>
    - Choose to color the choropleth map by either asthma rate, numerator (for raw magnitude of asthma burden), or denominator (for underlying patient population). <br/>
    - Select any combination of Sex, Age, and Race, as well as Asthma Diagnosis. <br/>
    - 'Any' Asthma Diagnosis overrides Asthma Severity.  Asthma Severity can only be used as a selector if Asthma Dx 'by Severity' is chosen. <br/>
